@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>My name is Lesley, a motivated starter in front-end development with an eye for design and a curious mindset. I enjoy combining creativity with a growing technical toolkit and cracking complex problems into smart solutions. After completing an intensive bootcamp, I’m excited to join a team where I can learn, grow, and contribute to building meaningful digital products 🚀.<br>
+Hi there 👋<br><br>My name is Lesley. With a passion for tech, an eye for design, and an analytical mindset, I enjoy combining creativity with a growing technical toolkit and cracking complex problems into smart solutions. After completing an intensive bootcamp, I’m excited to join a team where I can learn, grow, and contribute to building meaningful digital products 🚀.<br>
 
 
 # 💻 Tech Stack:
